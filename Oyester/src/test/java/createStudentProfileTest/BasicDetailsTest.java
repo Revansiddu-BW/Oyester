@@ -6,6 +6,8 @@ public class BasicDetailsTest {
 		System.out.println("github");
 		
 		//new chamges
+		
+		///bcbjkznjxncknkzn
 	
 	}
 }
